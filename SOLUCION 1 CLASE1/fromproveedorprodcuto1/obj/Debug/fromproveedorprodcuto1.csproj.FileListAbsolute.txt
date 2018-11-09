@@ -74,3 +74,6 @@ J:\SOLUCION 1 CLASE1\fromproveedorprodcuto1\bin\Debug\capaEntidades.pdb
 J:\SOLUCION 1 CLASE1\fromproveedorprodcuto1\bin\Debug\capaNegocio.pdb
 J:\SOLUCION 1 CLASE1\fromproveedorprodcuto1\bin\Debug\capaDatos.pdb
 J:\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.MDIProducto.resources
+C:\Users\TEMP\Documents\GitHub\Productos\SOLUCION 1 CLASE1\fromproveedorprodcuto1\bin\Debug\fromproveedorprodcuto1.exe.config
+C:\Users\TEMP\Documents\GitHub\Productos\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.exe
+C:\Users\TEMP\Documents\GitHub\Productos\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.pdb
